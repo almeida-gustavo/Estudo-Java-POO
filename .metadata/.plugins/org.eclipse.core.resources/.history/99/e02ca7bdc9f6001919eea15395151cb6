@@ -1,0 +1,28 @@
+package generics;
+
+
+import java.util.ArrayList;
+import java.util.List;
+
+
+public class PrincipalFuncionario {
+
+
+	public static void main(String[] args) {
+		//List e ArrayList são genericos, por isso vc pode colocar qualquer coisa dentro dos  < >
+		List<Funcionario> funcionarios = new ArrayList<>();
+		
+		funcionarios.add(new Funcionario("João"));
+		funcionarios.add(new Funcionario("Maria"));
+		
+//		funcionarios.add("Ricardo");
+		
+		int x = 10;
+		
+		for (Funcionario f : funcionarios) {
+			System.out.println("Nome do funcionário: " + f.getNome());
+		}
+		
+	}
+	
+}

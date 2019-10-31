@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+    <fullyQualifiedTypeName name="java.util.Date"/>
+    <fullyQualifiedTypeName name="interfaces.pagamento.Autorizavel"/>
+    <fullyQualifiedTypeName name="interfaces.impressao.Imprimivel"/>
+    <fullyQualifiedTypeName name="interfaces.pagamento.Cartao"/>
+    <fullyQualifiedTypeName name="interfaces.pagamento.operadoras.Cielo"/>
+    <fullyQualifiedTypeName name="interfaces.impressao.impressoras.ImpressoraEpson"/>
+    <fullyQualifiedTypeName name="interfaces.impressao.impressoras.ImpressoraHP"/>
+    <fullyQualifiedTypeName name="interfaces.pagamento.operadoras.Master"/>
+    <fullyQualifiedTypeName name="java.util.Calendar"/>
+    <fullyQualifiedTypeName name="java.util.Map"/>
+    <fullyQualifiedTypeName name="java.util.List"/>
+    <fullyQualifiedTypeName name="java.util.ArrayList"/>
+    <fullyQualifiedTypeName name="generics.RetirarElementos"/>
+    <fullyQualifiedTypeName name="generics.Funcionario"/>
+</qualifiedTypeNameHistroy>

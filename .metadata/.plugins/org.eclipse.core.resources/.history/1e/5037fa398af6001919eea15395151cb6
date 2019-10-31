@@ -1,0 +1,10 @@
+package generics;
+
+import java.util.List;
+
+public class RetirarElementos {
+
+	public static <T> T recuperaPrimeiro(List<T> lista) {
+		return lista.get(0);
+	}
+}
